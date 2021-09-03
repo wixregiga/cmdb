@@ -13,8 +13,6 @@ As far as possible to achieve more universal configuration and management of IT 
 </div>
 
 
-[中文](README.md) / [English](README_en.md)
-
 ## DEMO ONLINE
 - Preview online: [CMDB](http://121.42.12.46:8000)
     - username: demo
